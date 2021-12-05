@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm just a student from E-AI major of SatitPSM and I'm also a youtuber!
+
+### What language do I coded in?🤔
+
+- Python
+- Dart(Flutter)
+- JavaScript
+- C
+- C#
+
+### Socials 
+
+- Youtube: [https://www.youtube.com/channel/UCGNe0bKHgqHd4aiH2yPKIHA][1]
+- Facebook: [https://www.facebook.com/profile.php?id=100016329570565][2]
