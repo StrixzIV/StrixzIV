@@ -27,11 +27,11 @@ I'm just a student from E-AI major of SatitPSM and I'm also a youtuber!
 
 <br />
 
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png alt="C" width="35" height="40"/></a>
-<a><img src=https://cdn.worldvectorlogo.com/logos/c--4.svg alt="C#" width="40" height="40" />
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScripthttps://dotnet.microsoft.com/en-us/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.geeksforgeeks.org/c-programming-language/"><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png alt="C" width="35" height="40"/></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img src=https://cdn.worldvectorlogo.com/logos/c--4.svg alt="C#" width="40" height="40" />
 
 <br />
 
