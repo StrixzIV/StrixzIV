@@ -33,6 +33,7 @@ I'm just a student from E-AI major of SatitPSM and I'm also a youtuber!
 
 ### Socials 📫
 
+- **[My website portfolio](https://strixziv-portfolio.web.app)**
 - Youtube: **[Xcact](https://www.youtube.com/channel/UCGNe0bKHgqHd4aiH2yPKIHA)**
 - Facebook: **[Jirayu Kaewsing](https://www.facebook.com/profile.php?id=100016329570565)**
 - Instragram: **[@strixziv_](https://www.instagram.com/strixziv_/)**
