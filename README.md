@@ -40,4 +40,4 @@ I'm just a student from E-AI major of SatitPSM and I'm also a youtuber!
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=StrixzIV&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strixziv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
