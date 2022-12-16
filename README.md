@@ -22,12 +22,14 @@ I'm just a student from E-AI major of SatitPSM and I'm also a youtuber!
 - Python 
 - Dart(Flutter)
 - JavaScript
+- TypeScript
 
 <br />
 
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://cdn.cdnlogo.com/logos/t/96/typescript.svg" alt="python" width="40" height="40"/></a>
 
 <br />
 
