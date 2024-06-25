@@ -42,6 +42,7 @@ I'm just a student from RAI KMITL and I'm also a youtuber!
 - Youtube: **[Xcact](https://www.youtube.com/channel/UCGNe0bKHgqHd4aiH2yPKIHA)**
 - Facebook: **[Jirayu Kaewsing](https://www.facebook.com/profile.php?id=100016329570565)**
 - Instragram: **[@strixziv_](https://www.instagram.com/strixziv_/)**
+- Linkedin: **[Jirayu Kaewsing](www.linkedin.com/in/jirayu-kaewsing-7a2996297)**
 
 <br />
 
