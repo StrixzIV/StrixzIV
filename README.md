@@ -15,22 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm just a student from RAI KMITL and I'm also a youtuber!
+I'm Jirayu Kaewsing.
+
+Currently studying in Robotics and AI, KMITL. And I'm also a 42Network cadet at 42Bangkok!
 
 ### What language do I coded in?🤔
 
-- Python 
-- GO
+- Python
 - C/C++
-- JavaScript
-- TypeScript
-- Dart
+- JavaScript/TypeScript
+
+### What field I'm I working on?
+
+- Python ML/Data science
+- UNIX C/C++
+- ROS2
 
 <br />
 
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,c,cpp,js,ts,dart" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,docker" />
 </a>
 </p>
 
